@@ -1,0 +1,128 @@
+{
+  "number": 1,
+  "week": "Week 1 · Foundations",
+  "date": "10 November 2026",
+  "title": "What are medicinal plants and how can they help?",
+  "intro": "Explore five familiar Indian plants, discover what natural compounds do, and learn why traditional use is not the same as a proven cure.",
+  "objectives": [
+    "Define a medicinal plant and recognize bioactive compounds.",
+    "Identify five Indian medicinal plants by English, Tamil and botanical names.",
+    "Distinguish cultural or traditional use from clinical evidence.",
+    "Explain why some herbs may cause harm or interact with medication."
+  ],
+  "explanation": [
+    "A medicinal plant contains naturally occurring substances used historically or investigated for health effects. Such substances may act on biological processes, but their presence does not guarantee that the whole plant is an effective medicine.",
+    "India has rich Ayurveda, Siddha, Unani and community plant traditions. These are important sources of cultural and historical knowledge. Modern scientific testing helps establish which claims are supported by evidence and which remain uncertain.",
+    "A plant, its edible form, and a concentrated medicinal extract may have very different effects and safety profiles."
+  ],
+  "science": [
+    "Turmeric contains curcuminoids; ginger contains gingerols. Researchers study their actions using laboratory tests and human clinical trials. The strongest practical conclusions generally require well-designed human research.",
+    "A drug derived from nature is not the same as a homemade remedy. Paclitaxel is a cancer medicine developed from yew-derived compounds, but yew plant material is poisonous and cannot safely treat cancer."
+  ],
+  "plants": [
+    {
+      "english": "Ginger",
+      "tamil": "இஞ்சி",
+      "botanical": "Zingiber officinale",
+      "traditional": "Digestive complaints, nausea and colds.",
+      "evidence": "Some clinical evidence supports relief of pregnancy-related nausea; evidence varies by condition.",
+      "safety": "Persistent vomiting requires medical care. Ask a clinician before using supplements during pregnancy."
+    },
+    {
+      "english": "Turmeric",
+      "tamil": "மஞ்சள்",
+      "botanical": "Curcuma longa",
+      "traditional": "Skin care, digestion and joint discomfort.",
+      "evidence": "Certain studies of curcumin for knee osteoarthritis show possible benefits but more good research is needed.",
+      "safety": "Concentrated supplements may cause liver injury; they are not a substitute for arthritis care."
+    },
+    {
+      "english": "Tulsi / Holy Basil",
+      "tamil": "துளசி",
+      "botanical": "Ocimum tenuiflorum",
+      "traditional": "Cough, cold and wellness.",
+      "evidence": "There is no reliable clinical proof that it cures common respiratory infections.",
+      "safety": "Do not delay evaluation for breathing difficulty, high fever or worsening infection."
+    },
+    {
+      "english": "Neem",
+      "tamil": "வேம்பு",
+      "botanical": "Azadirachta indica",
+      "traditional": "Skin care and oral hygiene.",
+      "evidence": "Some active substances are being investigated; evidence depends on the preparation and condition.",
+      "safety": "Swallowing neem oil is particularly dangerous for children."
+    },
+    {
+      "english": "Amla / Indian Gooseberry",
+      "tamil": "நெல்லிக்காய்",
+      "botanical": "Phyllanthus emblica",
+      "traditional": "Digestion and general wellness.",
+      "evidence": "Nutritious edible fruit; insufficient evidence that it cures diabetes or heart disease.",
+      "safety": "Do not replace prescribed medicines with plant products."
+    }
+  ],
+  "examples": [
+    "A person with nausea may have heard about ginger. Some controlled studies support certain uses, but ongoing or severe vomiting can signal illness requiring medical attention.",
+    "A person with knee pain may be curious about turmeric. Research into curcumin is promising in some circumstances, but a spice or supplement is not a proven replacement for diagnosis, exercise or prescribed treatment.",
+    "A family may traditionally use Tulsi when someone has a cold. That history does not prove Tulsi kills viruses or cures respiratory infections."
+  ],
+  "safetyNote": "Natural does not always mean safe. Do not identify plants solely from a photograph, swallow unidentified plants or oils, prepare medicinal-strength extracts, or stop prescribed treatment. Children, pregnant people and anyone taking medicines need particular caution.",
+  "practicalIntro": "Explore familiar kitchen plants for 15–20 minutes. This is an observation activity, not a treatment exercise.",
+  "tasks": [
+    "Observe ginger, turmeric and curry leaves without tasting unknown specimens.",
+    "Record the English, Tamil and botanical name of each.",
+    "Sketch or photograph their shape, colour and texture.",
+    "Identify the plant part commonly used (rhizome or leaf).",
+    "Write one traditional use and one scientific uncertainty for each."
+  ],
+  "quiz": [
+    {
+      "question": "Which part of ginger is commonly used?",
+      "options": [
+        "Leaf",
+        "Rhizome (modified underground stem)",
+        "Flower"
+      ],
+      "correct": 1,
+      "explanation": "The edible ginger portion is a rhizome."
+    },
+    {
+      "question": "Which statement best describes turmeric?",
+      "options": [
+        "It cures all inflammatory diseases.",
+        "It replaces arthritis treatment.",
+        "Some extracts are being studied, but benefits and risks need careful evaluation."
+      ],
+      "correct": 2,
+      "explanation": "Traditional use and early research are not the same as established treatment."
+    },
+    {
+      "question": "How should we study medicinal plants safely?",
+      "options": [
+        "Identify species, check clinical evidence and understand risks.",
+        "Assume natural preparations are always safe.",
+        "Take unknown herbs for any illness."
+      ],
+      "correct": 0,
+      "explanation": "Correct identity, evidence and safety are essential."
+    }
+  ],
+  "references": [
+    {
+      "label": "NCCIH: Ginger",
+      "url": "https://www.nccih.nih.gov/health/ginger"
+    },
+    {
+      "label": "NCCIH: Turmeric",
+      "url": "https://www.nccih.nih.gov/health/turmeric"
+    },
+    {
+      "label": "WHO: Traditional medicine",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/traditional-medicine"
+    },
+    {
+      "label": "National Medicinal Plants Board",
+      "url": "https://nmpb.nic.in/"
+    }
+  ]
+}
