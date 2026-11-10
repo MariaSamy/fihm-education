@@ -1,0 +1,13 @@
+{
+  "course": "Indian Medicinal Plants and Natural Herbal Medicine",
+  "version": 1,
+  "lessons": [
+    {
+      "id": "lesson-001",
+      "file": "lessons/lesson-001.json",
+      "week": "Week 1",
+      "title": "What are medicinal plants?",
+      "published": true
+    }
+  ]
+}
